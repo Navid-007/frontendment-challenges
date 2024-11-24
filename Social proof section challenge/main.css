@@ -1,0 +1,22 @@
+:root {
+  --fs-600: 1rem;
+
+  --fw-light: 400;
+  --fw-normal: 500;
+  --fw-bold: 700;
+
+  --clr-neutral-900: hsl(300, 43%, 22%);
+  --clr-neutral-700: hsl(333, 80%, 67%);
+  --clr-neutral-400: hsl(303, 10%, 53%);
+  --clr-neutral-200: hsl(300, 24%, 96%);
+  --clr-neutral-100: hsl(0, 0%, 100%);
+}
+
+html {
+  font-family: "League Spartan", serif;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
